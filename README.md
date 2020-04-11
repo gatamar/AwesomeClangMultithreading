@@ -10,7 +10,7 @@
 + Futures
 
 ## API:
-+ [NSRunLoop](../blob/master/ExploreRunLoops/ExploreRunLoops/ViewController.swift)
++ [NSRunLoop](../master/ExploreRunLoops/ExploreRunLoops/ViewController.swift)
 + pthreads
 + std::mutex, std::condition_variable
 + GCD, NSOperationQueue
@@ -31,8 +31,8 @@
 ### Thread Pool Pattern
 
 ### Producer/Consumer Pattern
-"Peterson algorithm": https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/?ref=rp
-"Sleeping barber": https://www.geeksforgeeks.org/sleeping-barber-problem-in-process-synchronization/?ref=rp
++ [Peterson algorithm](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/?ref=rp) 
++ [Sleeping barber](https://www.geeksforgeeks.org/sleeping-barber-problem-in-process-synchronization/?ref=rp)
 
 ## Examples of good StackOverflow questions
 
